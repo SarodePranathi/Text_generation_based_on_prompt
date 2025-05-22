@@ -1,7 +1,7 @@
 import requests
 
 # Replace this with your actual API key
-API_KEY = '825b712e4a474e54b67868396e3c0399'
+API_KEY = 'enter the API key after generating it from aimlapi'
 API_URL = 'https://api.aimlapi.com/v1/chat/completions'
 
 headers = {
